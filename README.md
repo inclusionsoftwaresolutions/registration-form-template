@@ -23,7 +23,7 @@ This module is often required in several projects of web development.This is a B
 - SCSS
 
 ## Report Some Bugs
-Find a Bug? Please, [create an issue](https://github.com/thakurboy1234/register-form-temptate/issues) and we'll fix it together for a better template.
+Find a Bug? Please, [create an issue](https://github.com/inclusionsoftwaresolutions/registration-form-template/issues) and we'll fix it together for a better template.
 
 ## Created & Maintained By
 - [InclusionSoftwereSolutions](https://inclusionsoft.com/)
